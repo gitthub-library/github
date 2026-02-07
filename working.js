@@ -1,1 +1,0 @@
-print("this is a function where you run a func")
